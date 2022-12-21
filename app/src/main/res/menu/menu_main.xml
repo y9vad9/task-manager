@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.neon.systemtaskmanager.MainActivity">
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/baseline_refresh_24"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        app:showAsAction="always" />
+    <item
+        android:orderInCategory="100"
+        android:id="@+id/reportbug"
+        android:icon="@drawable/report"
+        android:title="@string/action_report"
+        app:showAsAction="never" />
+</menu>

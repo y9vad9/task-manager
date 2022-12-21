@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="processes">Процессы</string>
+    <string name="performance">Производительность</string>
+    <string name="startup">Автозапуск</string>
+    <string name="used">Использовано ОЗУ</string>
+    <string name="free">Свободно ОЗУ</string>
+    <string name="total">Всего ОЗУ</string>
+    <string name="refresh">Обновить</string>
+    <string name="enabled">Включено</string>
+    <string name="disabled">Выключено</string>
+    <string name="loading">Загрузка...</string>
+    <string name="permission_tip">Пособие по разрешению</string>
+    <string name="permission_tip_message">Из-за изменений начиная с 8 андроида, наше приложение не может правильно функционировать без root прав. Мы используем рут-права только для списка процессов.</string>
+    <string name="permission_root_tip">Пособие по рут-разрешению</string>
+    <string name="permission_root_tip_message">Из-за изменений начиная с 4.4 андроида, наше приложение не может правильно функционировать без root прав. Мы используем рут-права только для списка процессов.</string>
+    <string name="root_process_loading">Загрузка запущенных процессов... Это может занять некоторое время.</string>
+    <string name="in_new_update">Мы добавим это в следующем обновлении..</string>
+    <string name="extracting_tools">Извлечение инструментов..</string>
+    <string name="cleaned">Очищено</string>
+    <string name="action_report">Сообщить об ошибке</string>
+    <string name="info_about_app">Информация о приложении</string>
+    <string name="delete_app">Удалить приложение</string>
+    <string name="info_app_name">Название приложение:</string>
+    <string name="info_app_package">"Пакет приложения: "</string>
+    <string name="app_permission">Разрешения приложения:</string>
+    <string name="scheduled">Запланированные задачи</string>
+    <string name="app_perms">Разрешения приложения</string>
+    <string name="warning">Внимание!</string>
+    <string name="system_warn">Приложение являеться системным и его отключение может призвести к необратимым последсвиям!</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="autokiller_title">Автокиллер</string>
+    <string name="search">Поиск</string>
+</resources>

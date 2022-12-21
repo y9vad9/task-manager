@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">Task Manager</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="processes" translatable="true">Processes</string>
+    <string name="performance" translatable="true">Performance</string>
+    <string name="startup" translatable="true">Startup</string>
+    <string name="used" translatable="true">Used memory</string>
+    <string name="free" translatable="true">Free memory</string>
+    <string name="total">Total memory</string>
+    <string name="refresh" translatable="true">Refresh</string>
+    <string name="enabled" translatable="true">Enabled</string>
+    <string name="disabled" translatable="true">Disabled</string>
+    <string name="loading" translatable="true">Loading...</string>
+    <string name="permission_tip" translatable="true">Permission Tips</string>
+    <string name="permission_tip_message" translatable="true">Because of permission restriction from Android 8, SystemTaskManager needs you grant App Usage permission to work well. We only use this permission for listing running tasks.\n\nPlease find SystemTaskManager to enable it.</string>
+    <string name="permission_root_tip" translatable="true">Root Permission Tips</string>
+    <string name="permission_root_tip_message">Because of permission restriction from Android 4.4+, SystemTaskManager needs you grant root permission to work well (processes list). We only use this permission for listing running tasks and processes.  Please allow it.</string>
+    <string name="root_process_loading" translatable="true">Parsing running processes …\nthis may take about 15 seconds …</string>
+    <string name="in_new_update">We will add this in new update..</string>
+    <string name="extracting_tools">Extracting tools...</string>
+    <string name="cleaned">Cleaned</string>
+    <string name="action_report">Report a bug</string>
+    <string name="info_about_app">Information about app</string>
+    <string name="delete_app">Delete application</string>
+    <string name="info_app_name">App name:</string>
+    <string name="info_app_package">App package:</string>
+    <string name="app_permission">App permission:</string>
+    <string name="scheduled">Scheduled Tasks</string>
+    <string name="app_perms">App Permissions</string>
+    <string name="warning">Warning!</string>
+    <string name="system_warn">The application is a system application and its shutdown can lead to irreversible consequences!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="autokiller_title">AutoKiller</string>
+    <string name="search">Search</string>
+    <string name="app_menu">App Menu</string>
+    <string name="app_size">App size</string>
+    <string name="app_type">App type</string>
+    <string name="app_type_user">User</string>
+    <string name="app_type_system">System</string>
+    <string name="app_ver">App version</string>
+    <string name="more">More</string>
+    <string name="perm_write_external_storage">An application can write data to an SD card.</string>
+    <string name="perm_read_external_storage">The application can read data from an SD card.</string>
+    <string name="no_data">No data</string>
+    <string name="info">Info</string>
+    <string name="perm_internet">An application can create network sockets and use various network protocols.</string>
+    <string name="perm_bluetooth">An application can control the BLUETOOTH module.</string>
+    <string name="perm_nfc">Allows applications to perform I/O operations over NFC.</string>
+    <string name="perm_recieve_boot_complete">The application may receive a notification about the start of the device.</string>
+
+</resources>

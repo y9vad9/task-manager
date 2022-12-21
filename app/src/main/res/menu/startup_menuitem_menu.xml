@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_info"
+        android:title="@string/info_about_app"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_perms"
+        android:title="@string/app_perms"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_delete"
+        android:title="@string/delete_app"
+        app:showAsAction="always" />
+</menu>

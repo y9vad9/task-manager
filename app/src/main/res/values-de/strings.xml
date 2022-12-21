@@ -1,0 +1,50 @@
+<resources>
+    <string name="action_settings" translatable="true">die Einstellungen</string>
+    <string name="processes" translatable="true">Prozesse</string>
+    <string name="performance" translatable="true">Performance</string>
+    <string name="startup" translatable="true">Anlaufen</string>
+    <string name="used" translatable="true">Verwendeter Speicher</string>
+    <string name="free" translatable="true">Freier Speicher</string>
+    <string name="total" translatable="true">Gesamtspeicher</string>
+    <string name="refresh" translatable="true">Aktualisierung</string>
+    <string name="enabled" translatable="true">aktiviert</string>
+    <string name="disabled" translatable="true">Deaktiviert</string>
+    <string name="loading" translatable="true">Wird geladen...</string>
+    <string name="permission_tip" translatable="true">Berechtigungstipps</string>
+    <string name="permission_tip_message" translatable="true">Aufgrund der Berechtigungsbeschränkung von Android 8 muss für SystemTaskManager die Berechtigung zur App-Nutzung erteilt werden, damit die Funktion ordnungsgemäß ausgeführt werden kann. Diese Berechtigung wird nur zum Auflisten von ausgeführten Aufgaben verwendet. \ N \ nSuchen Sie nach SystemTaskManager, um sie zu aktivieren.</string>
+    <string name="permission_root_tip" translatable="true">Root-Berechtigungstipps</string>
+    <string name="permission_root_tip_message">Aufgrund der Berechtigungsbeschränkung von Android 4.4 muss für SystemTaskManager die Root-Berechtigung erteilt werden, damit die Funktion ordnungsgemäß ausgeführt werden kann (Prozessliste). Wir verwenden diese Berechtigung nur zum Auflisten von laufenden Aufgaben und Prozessen. Bitte erlauben Sie es.</string>
+    <string name="root_process_loading" translatable="true">Analyse laufender Prozesse ... \nDies kann ungefähr 15 Sekunden dauern ...</string>
+    <string name="in_new_update">Wir werden dies in einem neuen Update hinzufügen.</string>
+    <string name="extracting_tools">Werkzeuge extrahieren ...</string>
+    <string name="cleaned">Gereinigt</string>
+    <string name="action_report">Melde einen technischen Fehler</string>
+    <string name="info_about_app">Informationen zur App</string>
+    <string name="delete_app">Anwendung löschen</string>
+    <string name="info_app_name">App name:</string>
+    <string name="info_app_package">App package:</string>
+    <string name="app_permission">App permission:</string>
+    <string name="scheduled">Geplante Aufgaben</string>
+    <string name="app_perms">App Permissions</string>
+    <string name="warning">Warning!</string>
+    <string name="system_warn">The application is a system application and its shutdown can lead to irreversible consequences!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="autokiller_title">AutoKiller</string>
+    <string name="search">Search</string>
+    <string name="app_menu">App-Menü</string>
+    <string name="app_size">App size</string>
+    <string name="app_type">App type</string>
+    <string name="app_type_user">User</string>
+    <string name="app_type_system">System</string>
+    <string name="app_ver">App version</string>
+    <string name="more">More</string>
+    <string name="perm_write_external_storage">An application can write data to an SD card.</string>
+    <string name="perm_read_external_storage">The application can read data from an SD card.</string>
+    <string name="no_data">No data</string>
+    <string name="info">Info</string>
+    <string name="perm_internet">An application can create network sockets and use various network protocols.</string>
+    <string name="perm_bluetooth">An application can control the BLUETOOTH module.</string>
+    <string name="perm_nfc">Allows applications to perform I/O operations over NFC.</string>
+    <string name="perm_recieve_boot_complete">The application may receive a notification about the start of the device.</string>
+
+</resources>
